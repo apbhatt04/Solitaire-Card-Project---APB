@@ -1,7 +1,5 @@
     ###########################################################
 
-    #  Computer Project #10
-
     #  Solitaire card game
 
     #  Use function to initialize solitaire data structures
